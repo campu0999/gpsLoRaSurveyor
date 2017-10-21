@@ -10,6 +10,9 @@ specifically it is being used to see the range of a Multitech Conduit paired wit
 
 <figure>
   <img src="draginoLoRaShield.jpg" alt="Dragino shield" height="200" width="200">
-  <figcaption>Fig1. - A view of the pulpit rock in Norway.</figcaption>
+  <figcaption>>Dragino LoRa shield, Source: <a href="http://wiki.dragino.com/index.php?title=Lora_Shield">Dragino</a></figcaption>
 </figure>
-<img src="adafruitGps.jpg" alt="Adafruit GPS module" height="200" width="295"> 
+<figure>
+  <img src="adafruitGps.jpg" alt="Adafruit GPS module" height="200" width="295"> 
+  <figcaption>Adafruit GPS, Source: <a href="https://learn.adafruit.com/adafruit-ultimate-gps/overview">Adafruit</a></figcaption>
+</figure>
