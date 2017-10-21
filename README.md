@@ -9,4 +9,4 @@ specifically it is being used to see the range of a Multitech Conduit paired wit
 <a href="https://www.adafruit.com/product/746">Adafruit GPS module product page</a>
 
 
-<img src="draginoLoRaShield.jpg" alt="Dragino shield" height="200" width="200"> <img src="adafruitGps.jpg" alt="Adafruit GPS module" height="200" width="295"> 
+<img src="draginoLoRaShield.jpg" alt="Dragino shield" height="200" width="200">         <img src="adafruitGps.jpg" alt="Adafruit GPS module" height="200" width="295"> 
